@@ -47,20 +47,18 @@ Nagłówek 2
  - [ ] Druga lista
  - [ ] 
 
-> To jest cytat
-[enter link description here](https://poczta.onet.pl/)
-~~
+> To jest cytat [poczta](https://poczta.onet.pl/)
 
 ## *strikethrough text*
-```
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ```
 [<img src="https://picsum.photos/id/237/200/300">]
-![enter image description here](
-![enter image description here](https://picsum.photos/id/237/200/300)
+![piesek](
+![piesek2](https://picsum.photos/id/237/200/300)
 
 
 ----------
