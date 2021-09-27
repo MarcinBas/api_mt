@@ -13,7 +13,7 @@
 
 [onet.pl]()
 
-![<img src="https://picsum.photos/id/237/200/300">]()
+![](https://picsum.photos/id/237/200/300)
 
 # What is what is?
 
