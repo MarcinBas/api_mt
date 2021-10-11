@@ -6,12 +6,12 @@
 Machine Translation (MT) technology allows you to automatically translate your text from one language to another. Both Trados Studio 2021™ and memoQ translator pro 9.8™ use plugins to connect to machine translation engine vendors. This manual provides information as to how to obtain API keys from MT vendors and enter them into the plugins.
 ### 1.1 MT vendors described
 This manual shows how to obtain APIs to the following MTs:
-MT name | Advantages | Disadvantages
------------ | -------------- | -----
-Google Cloud Translation Basic (or Google Translate API v2)  | best known vendor, 100 language pairs available  |
-DeepL  |  probably the best vendor, as proven by DeepL's own survey (results available here: https://www.deepl.com/quality.html) | 
-Amazon Translate (AWS)   |   | 
-Modern MT   |   | Not cheap
+MT name | Advantages | Disadvantages | Cost
+----------- | ----------- | ----------- | -----------
+Google Cloud Translation Basic (or Google Translate API v2)  | best known vendor, numerous language pairs available  | quality differs per language pair  | paid service with free quota
+DeepL  |  very high quality  | limited number of language pairs  | paid service with free trial
+Amazon Translate (AWS)   |  numerous language pairs available | quality differs per language pair  | paid service with free quota
+Modern MT   |  high quality vendor  | limited number of language pairs  | paid service with adaptive functions in basic plan
 
 ### 1.2 Privacy
 More information about the way in which your data is processed by the MT vendors listed in point 1.1 of this manual is available from:
