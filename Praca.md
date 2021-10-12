@@ -1,6 +1,6 @@
 ﻿# __HOW TO CONNECT FOUR POPULAR MTs TO TRADOS STUDIO 2021™ AND MEMOQ TRANSLATOR PRO 9.8™__
 ! [sdsds] (https://github.com/MarcinBas/dla-marty/blob/main/images/memoq/memoq%20amazon/2021-10-11%2022_18_20-1.png)
-<img src="https://picc.io/sG736L4.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://picc.io/sG736L4.png" alt="MarineGEO circle logo" style="height: 1000px; width:1000px;"/>
 > ___The biggest challenge is to combine technology and the human side without losing the latter___ — Gordana Antonijević, Head of Translation Unit, Veris
 
 ## 1. INTRODUCTION
