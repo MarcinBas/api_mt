@@ -1,4 +1,4 @@
-﻿# __HOW TO CONNECT FOUR POPULAR MTs TO TRADOS STUDIO 2021™ AND MEMOQ TRANSLATOR PRO 9.8™__
+# __HOW TO CONNECT FOUR POPULAR MTs TO TRADOS STUDIO 2021™ AND MEMOQ TRANSLATOR PRO 9.8™__
 
 > ___The biggest challenge is to combine technology and the human side without losing the latter___ — Gordana Antonijević, Head of Translation Unit, Veris
 
@@ -39,12 +39,13 @@ Refer to Point 4.1 for details.
 
 <img src="https://picc.io/be6e_v7.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic2" style="height: 200px; width: 800px;"/>
 
- - Enter necessary credentials in the **Authentication** window.
+- Enter necessary credentials in the **Authentication** window.
 
-		a. Select **Access key  / Secret access key** in the **Choose AWS auth type** drop down menu.
+    - Select **Access key  / Secret access key** in the **Choose AWS auth type** drop down menu.
 		
-		b. Enter the **AWS region name**, **Access key** and **Secret access key** credentials in the appropriate fields. Check the **Save access keys for future sessions** option. 
-		c. Confirm by clicking **OK**.
+    - Enter the **AWS region name**, **Access key** and **Secret access key** credentials in the appropriate fields. Check the **Save access keys for future sessions** option.
+    
+     - Confirm by clicking **OK**.
 		
 <img src="https://picc.io/SvUn4RV.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic3" style="height: 400px; width: 400px;"/>
 
@@ -58,7 +59,7 @@ Refer to Point 4.2 for details.
 
 - Open your desktop version of Trados Studio 2021™.
 
- - Go to **Add-ins > RWS AppStore**. Search for **DeepL Translation Provider** and download it. Restart Trados Studio 2021™.
+- Go to **Add-ins > RWS AppStore**. Search for **DeepL Translation Provider** and download it. Restart Trados Studio 2021™.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **DeepL MT Translation Provider**.
 
@@ -79,7 +80,7 @@ Refer to Point 4.3 for details.
 #### 2.3.2 How to set up the Trados Studio 2021™ plugin for ModernMT
 - Open your desktop version of Trados Studio 2021™.
 
- - Go to **Add-ins > RWS AppStore**. Search for **ModernMT** and download it. Restart Trados Studio 2021™.
+- Go to **Add-ins > RWS AppStore**. Search for **ModernMT** and download it. Restart Trados Studio 2021™.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **Modern MT Adaptive Neural Machine Translation**.
 
@@ -98,10 +99,11 @@ Refer to Point 4.4 for details.
 
 - Open your desktop version of Trados Studio 2021™.
 
- - Go to **Add-ins > RWS AppStore**. Search for **MT Enhanced Plugin for Trados Studio** and download it.
+- Go to **Add-ins > RWS AppStore**. Search for **MT Enhanced Plugin for Trados Studio** and download it.
 
 <img src="https://picc.io/hYkNiee.png" alt="How to set up the Trados Studio 2021™ plugin for Google Translation Basic_pic1" style="height: 400px; width: 800px;"/>
--  Restart Trados Studio 2021™.
+
+- Restart Trados Studio 2021™.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **MT Enhanced Trados Plugin**.
 
@@ -129,7 +131,9 @@ This plugin is not required for the **Google Cloud Translation Basic (or Google 
  - Go to **Add-ins > RWS AppStore**. Search for **Google API Validator** and download it. By default, it is saved in the following destination: C:\Users\User1\AppData\Roaming\SDL Community\AppStore Integration\Downloads\GoogleApiValidator.Setup.zip
  
 In your system the \Users\User1 part of the path shown here will most likely be different. The path has been included here as an example, not a precise indication of the .zip file location.
+
  - Install the file by clicking it and follow the on-screen commands.
+ 
  - After the plugin is installed, restart Trados Studio 2021™. The plugin is now ready for use.
  
  More information on this plugin is available **[here](https://community.sdl.com/product-groups/translationproductivity/w/customer-experience/5493/google-api-validator)**
@@ -146,14 +150,17 @@ Refer to Point 4.1 for details.
  <img src="https://picc.io/dSDEXcO.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic1" style="height: 400px; width: 800px;"/>
  
  - Click **Options**. A new pane appears. Click **Options** in the **memoQ options** menu. Wait for the **Default resources** pane to open.
+ 
  <img src="https://picc.io/-uk0_4T.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic2" style="height: 400px; width: 800px;"/>
 
  - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
  
-	a. If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**..
+      - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
+	
  <img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic3" style="height: 400px; width: 800px;"/>
- 
-	b. If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
+
+   - If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description.
+	Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
 	
  <img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic4" style="height: 400px; width: 800px;"/>
 
