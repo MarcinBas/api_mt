@@ -276,7 +276,7 @@ You may start using this service now.
 ## 4. SPECIFICS - Trados Studio 2021™
 ### 4.1 Amazon Translate (AWS) API Key
 #### 4.1.1 How to obtain an API key
-##### 4.1.1.2 Create an **[AWS account](https://aws.amazon.com/)**.
+##### 4.1.1.2 Create an **[AWS account](https://aws.amazon.com/)**
 <img src="https://picc.io/aNeFG-F.png" alt="How to obtain an API key for Amazon Translate AWS_pic1" style="height: 400px; width: 800px;"/>
 
  -  You need your debit/credit card to accomplish this step. One USD/EUR is then temporarily charged to your bank account. Provide your personal details. In the next step select the payment plan:
