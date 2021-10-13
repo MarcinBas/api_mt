@@ -128,7 +128,7 @@ This plugin is not required for the **Google Cloud Translation Basic (or Google 
 <img src="https://picc.io/8n9F_Gf.png" alt=" How to set up the Google API Validator plugin for Trados Studio 2021_pic1" style="height: 400px; width: 800px;"/>
 
  - Open your desktop version of Trados Studio 2021™.
- - Go to **Add-ins > RWS AppStore**. Search for **Google API Validator** and download it. By default, it is saved in the following destination: C:\Users\User1\AppData\Roaming\SDL Community\AppStore Integration\Downloads\GoogleApiValidator.Setup.zip
+ - Go to **Add-ins > RWS AppStore**. Search for **Google API Validator** and download it. By default, it is saved in the following destination: C:\Users\User1\AppData\Roaming\SDL Community\AppStore Integration\Downloads\GoogleApiValidator.Setup.zip.
  
 In your system the \Users\User1 part of the path shown here will most likely be different. The path has been included here as an example, not a precise indication of the .zip file location.
 
@@ -136,7 +136,7 @@ In your system the \Users\User1 part of the path shown here will most likely be 
  
  - After the plugin is installed, restart Trados Studio 2021™. The plugin is now ready for use.
  
- More information on this plugin is available **[here](https://community.sdl.com/product-groups/translationproductivity/w/customer-experience/5493/google-api-validator)**
+ More information on this plugin is available **[here](https://community.sdl.com/product-groups/translationproductivity/w/customer-experience/5493/google-api-validator).**
 
 ## 3. SPECIFICS - Memoq Translator Pro 9.8™
 ### 3.1 Amazon Translate (AWS)
@@ -248,7 +248,8 @@ Refer to Point 4.4 for details.
 - Click **My memoq** tab in the upper, left corner of the dashboard.
 
 <img src="https://picc.io/dSDEXcO.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic1" style="height: 400px; width: 800px;"/>
- - Click **Options**. A new pane appears. Click **Options** in the **memoQ options** menu. Wait for the **Default resources** pane to open.
+
+- Click **Options**. A new pane appears. Click **Options** in the **memoQ options** menu. Wait for the **Default resources** pane to open.
  
  <img src="https://picc.io/-uk0_4T.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic2" style="height: 400px; width: 800px;"/>
  
@@ -260,8 +261,9 @@ Refer to Point 4.4 for details.
  
   - If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
 
-<img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic4" style="height: 400px; width: 800px;"/>	
- - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Google Cloud Translation Basic plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
+<img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic4" style="height: 400px; width: 800px;"/>
+
+  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Google Cloud Translation Basic plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
  
  <img src="https://picc.io/UQtS0Xo.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basics_pic5" style="height: 400px; width: 400px;"/>
  
@@ -297,9 +299,9 @@ You may start using this service now.
  
  -  Run AWS CL by **[opening a windows command prompt](https://www.lifewire.com/how-to-open-command-prompt-2618089).** Type in `aws configure`.
  
- - When prompted enter the required data. Confirm by pressing Enter after each line. When prompted for the **Default region name** enter `us-west-2` or follow the instructions given here: https://docs.aws.amazon.com/general/latest/gr/rande.html
+ - When prompted enter the required data. Confirm by pressing Enter after each line. When prompted for the **Default region name** enter `us-west-2` or follow the instructions given here: https://docs.aws.amazon.com/general/latest/gr/rande.html.
 
-Type in `aws configure` again. This is an example of what you should see then:
+  - Type in `aws configure` again. This is an example of what you should see then:
 
 <img src="https://picc.io/G2mQ82h.png" alt="How to obtain an API key for Amazon Translate AWS_pic4" style="height: 400px; width: 800px;"/>
 
