@@ -331,7 +331,9 @@ You have successfully set up your AWS credentials, incl. your API key.
 
 ### 4.4 Google Cloud Translation Basic (or Google Translate API v2)
 #### 4.4.1 How to obtain an API key
-##### 4.4.1.1 To use this MT vendor you need to have your regular Google Account. Set it up and log in to it. Then log in [here](https://console.developers.google.com/cloud-resource-manager).
+##### 4.4.1.1 Google Account
+
+To use this MT vendor you need to have your regular Google Account. Set it up and log in to it. Then log in [here](https://console.developers.google.com/cloud-resource-manager).
 
  - Go to **Billing** > **Add a billing account**. Accomplish all the required steps of the procedure.
  
