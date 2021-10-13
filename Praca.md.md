@@ -121,9 +121,11 @@ Refer to Point 4.1 for details.
  
  - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **Amazon Translate Trados Plugin**.
 
-<img src="https://picc.io/_iBPzvh.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic1" style="height: 400px; width: 800px;"/>
+<!-- <img src="https://picc.io/_iBPzvh.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic1" style="height: 400px; width: 800px;"/> -->
+![](./images/trados/trados_AWS/trados_MT.png)
 
-<img src="https://picc.io/be6e_v7.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic2" style="height: 200px; width: 800px;"/>
+<!-- <img src="https://picc.io/be6e_v7.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic2" style="height: 200px; width: 800px;"/> -->
+![](./images/trados/trados_AWS/trados_AWS.png)
 
 - Enter necessary credentials in the **Authentication** window.
 
