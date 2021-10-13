@@ -319,7 +319,9 @@ You have successfully set up your AWS credentials, incl. your API key.
 
 ### 4.3 ModernMT
 #### 4.3.1 How to obtain an API key
-##### 4.3.1.1 Create a ModernMT account [here](https://www.modernmt.com/pricing/).
+##### 4.3.1.1 ModernMT account
+
+Create a ModernMT account [here](https://www.modernmt.com/pricing/).
 
 - Click **Plugins for translators** > **Get a license**.
 
