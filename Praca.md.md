@@ -155,7 +155,7 @@ Refer to Point 4.1 for details.
 
  - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
  
-      - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
+ - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
 	
  <img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic3" style="height: 400px; width: 800px;"/>
 
@@ -188,10 +188,11 @@ Refer to Point 4.2 for details.
  
  - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
  
-	a. If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
- <img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for DeppL_pic3" style="height: 400px; width: 800px;"/>
+ -    If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
+
+<img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for DeppL_pic3" style="height: 400px; width: 800px;"/>
  
-	b. If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
+ -    If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
 	
  <img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for DeepL_pic4" style="height: 400px; width: 800px;"/>
  
@@ -220,10 +221,11 @@ Refer to Point 4.3 for details.
 
  - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right. 
  
-	a. If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
- <img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic3" style="height: 400px; width: 800px;"/>
+ - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
+
+<img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic3" style="height: 400px; width: 800px;"/>
  
-	b. If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
+ - If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
 	
 <img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic4" style="height: 400px; width: 800px;"/>
 
@@ -250,13 +252,14 @@ Refer to Point 4.4 for details.
  
  <img src="https://picc.io/-uk0_4T.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic2" style="height: 400px; width: 800px;"/>
  
- - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
+  - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
  
-	a. If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
- <img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic3" style="height: 400px; width: 800px;"/>
+  - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
+  
+<img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic3" style="height: 400px; width: 800px;"/>
  
-	b. If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
-	
+  - If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
+
 <img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic4" style="height: 400px; width: 800px;"/>	
  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Google Cloud Translation Basic plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
  
