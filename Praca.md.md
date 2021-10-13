@@ -166,11 +166,11 @@ Refer to Point 4.1 for details.
 
  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **AWS Amazon Translate** plugin. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
 
- <img src="https://picc.io/xIXUN4z.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic5" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/xIXUN4z.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic5" style="height: 400px; width: 400px;"/>
  
  - In the **Amazon Translate plugin settings** enter your Access key and Secret access key in the two text fields. Select your region from the Region drop-down menu. It must be the same region as the one specified in your Amazon credentials. More information about other options available in this window are available **[here](https://docs.memoq.com/current/en/Places/amazon-mt-plugin-settings.html)**.  Click **OK**, then click **OK** again.
  
- <img src="https://picc.io/TERHTbF.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic6" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/TERHTbF.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic6" style="height: 400px; width: 400px;"/>
 
 You may start using this service now.
 
@@ -198,11 +198,11 @@ Refer to Point 4.2 for details.
  
  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **DeepL MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
 
- <img src="https://picc.io/xIXUN4z.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for DeepL_pic5" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/xIXUN4z.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for DeepL_pic5" style="height: 400px; width: 400px;"/>
 
  - In the **DeepL MT plugin settings** enter your DeepL API key in the **Auth key** field.  Click  **OK**.  Check the  **Enable plugin**  check box in the list of machine translation plugins. Click  **OK**  again to close the  **Options**  dialog.
 
- <img src="https://picc.io/-xMY41b.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for DeepL_pic6" style="height: 400px; width: 800px;"/> 
+ <img src="https://picc.io/-xMY41b.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for DeepL_pic6" style="height: 200px; width: 500px;"/> 
 
 You may start using this service now.
 
@@ -231,11 +231,11 @@ Refer to Point 4.3 for details.
 
  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Modern MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
 
- <img src="https://picc.io/8sHD0RD.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic5" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/8sHD0RD.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic5" style="height: 400px; width: 400px;"/>
  
  - In the **Modern MT settings** enter your Modern MT API key in the field. Click  **Login**.  Select one of the translation memories or create a new one. Click  **OK**  again to close the  **Options**  dialog.
  
- <img src="https://picc.io/e9_rZoX.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic6" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/e9_rZoX.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic6" style="height: 400px; width: 400px;"/>
  
 You may start using this service now.
 
@@ -263,11 +263,11 @@ Refer to Point 4.4 for details.
 <img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic4" style="height: 400px; width: 800px;"/>	
  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Google Cloud Translation Basic plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
  
- <img src="https://picc.io/UQtS0Xo.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basics_pic5" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/UQtS0Xo.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basics_pic5" style="height: 400px; width: 400px;"/>
  
  - In the **Google MT Plugin settings** enter your Google API key in the **Key for API v2.0** field. Do not change the text in the **Referer**  box . Click  **OK**.  Check the  **Enable plugin**  check box in the list of machine translation plugins. Click  **OK**  again to close the  **Options**  dialog.
  
- <img src="https://picc.io/H1FDEe_.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basics_pic6" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/H1FDEe_.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basics_pic6" style="height: 400px; width: 400px;"/>
  
 You may start using this service now.
 
@@ -368,7 +368,7 @@ You have successfully set up your AWS credentials, incl. your API key.
  - Click **Cloud Translation API** > **Enable**.
  
 <img src="https://picc.io/YQwLPtc.png" alt="How to obtain an API key_Google_pic9" style="height: 400px; width: 800px;"/>
-<img src="https://picc.io/COqLrrS.png" alt="How to obtain an API key_Google_pic10" style="height: 400px; width: 800px;"/>
+<img src="https://picc.io/COqLrrS.png" alt="How to obtain an API key_Google_pic10" style="height: 400px; width: 700px;"/>
 
  - To use this API, you need credentials. Click **Create credentials** to get started.
  
@@ -392,7 +392,7 @@ You have successfully set up your AWS credentials, incl. your API key.
 <img src="https://picc.io/g3kCM-_.png" alt="How to obtain an API key_Google_pic16" style="height: 400px; width: 800px;"/>
 
  - Allow the **Restrict key** option. In the drop-down menu select **Cloud Translation API**. Click **Save**.
- - 
+  
 <img src="https://picc.io/bvZhD9e.png" alt="How to obtain an API key_Google_pic17" style="height: 400px; width: 800px;"/>
 
 You now have your API key set up.
