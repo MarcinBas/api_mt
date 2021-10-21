@@ -16,7 +16,7 @@
 
   -  [2.1.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#211-how-to-obtain-an-api-key)
 
-   - [2.1.2 How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#212-how-to-set-up-the-trados-studio-2021-plugin-for-amazon-translate-aws)
+   - [2.1.2 How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#212-how-to-set-up-the-trados-studio-2021-plugin-for-amazon-translate-aws)
    
 * [2.2 DeepL](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#22-deepl)
 
