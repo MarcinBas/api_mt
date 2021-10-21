@@ -94,6 +94,7 @@ Machine Translation (MT) technology allows you to automatically translate your t
 Information contained herein is valid as of October 1st, 2021. Due to frequent changes in user interfaces utilised by MT vendors this information may become obsolescent after that date without advance notice. Revision 1.0.
 ### 1.1 MT vendors described
 This manual shows how to obtain APIs to the following MTs:
+
 MT name | Advantages | Disadvantages | Cost
 ----------- | ----------- | ----------- | -----------
 Google Cloud Translation Basic (or Google Translate API v2)  | best known vendor, numerous language pairs available  | quality differs per language pair, very complicated set-up  | paid service with free quota
