@@ -95,12 +95,12 @@ Information contained herein is valid as of October 1st, 2021. Due to frequent c
 ### 1.1 MT vendors described
 This manual shows how to obtain APIs to the following MTs:
 
-MT name | Advantages | Disadvantages | Cost
------------ | ----------- | ----------- | -----------
-Google Cloud Translation Basic (or Google Translate API v2)  | best known vendor, numerous language pairs available  | quality differs per language pair, very complicated set-up  | paid service with free quota
-DeepL  |  very high quality, easy set-up  | limited number of language pairs  | paid service with free trial
-Amazon Translate (AWS)   |  numerous language pairs available | quality differs per language pair, complicated set-up  | paid service with free quota
-Modern MT   |  high quality vendor, easy set-up | limited number of language pairs  | paid service with adaptive functions in basic plan
+| MT name | Advantages | Disadvantages | Cost |
+| ----------- | ----------- | ----------- | ----------- |
+| Google Cloud Translation Basic (or Google Translate API v2)  | best known vendor, numerous language pairs available  | quality differs per language pair, very complicated set-up  | paid service with free quota |
+| DeepL  |  very high quality, easy set-up  | limited number of language pairs  | paid service with free trial |
+| Amazon Translate (AWS)   |  numerous language pairs available | quality differs per language pair, complicated set-up  | paid service with free quota |
+| Modern MT   |  high quality vendor, easy set-up | limited number of language pairs  | paid service with adaptive functions in basic plan |
 
 ### 1.2 Privacy
 More information about the way in which your data is processed by the MT vendors listed in point 1.1 of this manual is available from:
