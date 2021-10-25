@@ -4,90 +4,90 @@
 
 
 
-[1. INTRODUCTION](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#1-introduction)
+[1. INTRODUCTION](https://github.com/MarcinBas/dla-marty/blob/main/index.md#1-introduction)
 
-* [1.1 MT vendors described](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#11-mt-vendors-described)
+* [1.1 MT vendors described](https://github.com/MarcinBas/dla-marty/blob/main/index.md#11-mt-vendors-described)
 
-* [1.2 Privacy](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#12-privacy)
+* [1.2 Privacy](https://github.com/MarcinBas/dla-marty/blob/main/index.md#12-privacy)
 
-[2. SPECIFICS - Trados Studio 2021™](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#2-specifics---trados-studio-2021)
+[2. SPECIFICS - Trados Studio 2021™](https://github.com/MarcinBas/dla-marty/blob/main/index.md#2-specifics---trados-studio-2021)
 
-* [2.1 Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#21-amazon-translate-aws)
+* [2.1 Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#21-amazon-translate-aws)
 
-  -  [2.1.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#211-how-to-obtain-an-api-key)
+  -  [2.1.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#211-how-to-obtain-an-api-key)
 
    - [2.1.2 How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#212-how-to-set-up-the-trados-studio-2021-plugin-for-amazon-translate-aws)
    
-* [2.2 DeepL](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#22-deepl)
+* [2.2 DeepL](https://github.com/MarcinBas/dla-marty/blob/main/index.md#22-deepl)
 
-  - [2.2.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#221-how-to-obtain-an-api-key)
-  - [2.2.2 How to set up the Trados Studio 2021™ plugin for DeepL](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#222-how-to-set-up-the-trados-studio-2021-plugin-for-deepl)
+  - [2.2.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#221-how-to-obtain-an-api-key)
+  - [2.2.2 How to set up the Trados Studio 2021™ plugin for DeepL](https://github.com/MarcinBas/dla-marty/blob/main/index.md#222-how-to-set-up-the-trados-studio-2021-plugin-for-deepl)
 
-* [2.3 ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#23-modernmt)
+* [2.3 ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/index.md#23-modernmt)
 
-  - [2.3.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#231-how-to-obtain-an-api-key)
+  - [2.3.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#231-how-to-obtain-an-api-key)
 
-  - [2.3.2 How to set up the Trados Studio 2021™ plugin for ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#232-how-to-set-up-the-trados-studio-2021-plugin-for-modernmt)
+  - [2.3.2 How to set up the Trados Studio 2021™ plugin for ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/index.md#232-how-to-set-up-the-trados-studio-2021-plugin-for-modernmt)
 
-* [2.4 Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#24-google-cloud-translation-basic-or-google-translate-api-v2)
+* [2.4 Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#24-google-cloud-translation-basic-or-google-translate-api-v2)
 
-  - [2.4.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#241-how-to-obtain-an-api-key)
+  - [2.4.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#241-how-to-obtain-an-api-key)
 
-  - [2.4.2 How to set up the Trados Studio 2021™ plugin for Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#242-how-to-set-up-the-trados-studio-2021-plugin-for-google-cloud-translation-basic-or-google-translate-api-v2)
+  - [2.4.2 How to set up the Trados Studio 2021™ plugin for Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#242-how-to-set-up-the-trados-studio-2021-plugin-for-google-cloud-translation-basic-or-google-translate-api-v2)
 
-  - [2.4.3 How to set up the Google API Validator plugin for Trados Studio 2021™ (optional)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#243-how-to-set-up-the-google-api-validator-plugin-for-trados-studio-2021-optional)
+  - [2.4.3 How to set up the Google API Validator plugin for Trados Studio 2021™ (optional)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#243-how-to-set-up-the-google-api-validator-plugin-for-trados-studio-2021-optional)
 
-[3. SPECIFICS - Memoq Translator Pro 9.8™3.1 Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#3-specifics---memoq-translator-pro-98)
+[3. SPECIFICS - Memoq Translator Pro 9.8™3.1 Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#3-specifics---memoq-translator-pro-98)
 
-* [3.1 Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#31-amazon-translate-aws)
+* [3.1 Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#31-amazon-translate-aws)
 
-  -  [3.1.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#311-how-to-obtain-an-api-key)
+  -  [3.1.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#311-how-to-obtain-an-api-key)
 
-  - [3.1.2 How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#312-how-to-set-up-the-memoq-translator-pro-98-plugin-for-amazon-translate-aws-for-a-local-profile)
+  - [3.1.2 How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#312-how-to-set-up-the-memoq-translator-pro-98-plugin-for-amazon-translate-aws-for-a-local-profile)
 
-* [3.2 DeepL](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#32-deepl)
+* [3.2 DeepL](https://github.com/MarcinBas/dla-marty/blob/main/index.md#32-deepl)
 
-   - [3.2.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#321-how-to-obtain-an-api-key)
+   - [3.2.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#321-how-to-obtain-an-api-key)
 
-  - [3.2.2 How to set up the Memoq Translator Pro 9.8™ plugin for DeepL](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#322-how-to-set-up-the-memoq-translator-pro-98-plugin-for-deepl)
+  - [3.2.2 How to set up the Memoq Translator Pro 9.8™ plugin for DeepL](https://github.com/MarcinBas/dla-marty/blob/main/index.md#322-how-to-set-up-the-memoq-translator-pro-98-plugin-for-deepl)
 
-* [3.3 ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#33-modernmt)
+* [3.3 ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/index.md#33-modernmt)
 
-  - [3.3.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#331-how-to-obtain-an-api-key)
+  - [3.3.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#331-how-to-obtain-an-api-key)
 
-  - [3.3.2 How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#332-how-to-set-up-the-memoq-translator-pro-98-plugin-for-modernmt)
+  - [3.3.2 How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/index.md#332-how-to-set-up-the-memoq-translator-pro-98-plugin-for-modernmt)
 
-* [3.4 Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#34-google-cloud-translation-basic-or-google-translate-api-v2)
+* [3.4 Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#34-google-cloud-translation-basic-or-google-translate-api-v2)
 
-  - [3.4.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#341-how-to-obtain-an-api-key)
+  - [3.4.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#341-how-to-obtain-an-api-key)
 
-  - [3.4.2 How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#342-how-to-set-up-the-memoq-translator-pro-98-plugin-for-google-cloud-translation-basic-or-google-translate-api-v2)
+  - [3.4.2 How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#342-how-to-set-up-the-memoq-translator-pro-98-plugin-for-google-cloud-translation-basic-or-google-translate-api-v2)
 
-[4. SPECIFICS - Trados Studio 2021™](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#4-specifics---trados-studio-2021)
+[4. SPECIFICS - Trados Studio 2021™](https://github.com/MarcinBas/dla-marty/blob/main/index.md#4-specifics---trados-studio-2021)
 
-* [4.1 Amazon Translate (AWS) API Key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#41-amazon-translate-aws-api-key)
+* [4.1 Amazon Translate (AWS) API Key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#41-amazon-translate-aws-api-key)
 
-  - [4.1.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#411-how-to-obtain-an-api-key)
+  - [4.1.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#411-how-to-obtain-an-api-key)
 
-    - [4.1.1.2 Create an AWS account.](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#4112-create-an-aws-account)
+    - [4.1.1.2 Create an AWS account.](https://github.com/MarcinBas/dla-marty/blob/main/index.md#4112-create-an-aws-account)
 
-* [4.2 DeepL](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#42-deepl)
+* [4.2 DeepL](https://github.com/MarcinBas/dla-marty/blob/main/index.md#42-deepl)
 
-  -  [4.2.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#421-how-to-obtain-an-api-key)
+  -  [4.2.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#421-how-to-obtain-an-api-key)
 
-     - [4.2.1.1 Create a DeepL account here](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#4211-create-a-deepl-account-here)
+     - [4.2.1.1 Create a DeepL account here](https://github.com/MarcinBas/dla-marty/blob/main/index.md#4211-create-a-deepl-account-here)
 
-* [4.3 ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#43-modernmt)
+* [4.3 ModernMT](https://github.com/MarcinBas/dla-marty/blob/main/index.md#43-modernmt)
 
-   - [4.3.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#431-how-to-obtain-an-api-key)
+   - [4.3.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#431-how-to-obtain-an-api-key)
 
-     - [4.3.1.1 ModernMT account](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#4311-modernmt-account)
+     - [4.3.1.1 ModernMT account](https://github.com/MarcinBas/dla-marty/blob/main/index.md#4311-modernmt-account)
 
-* [4.4 Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#44-google-cloud-translation-basic-or-google-translate-api-v2)
+* [4.4 Google Cloud Translation Basic (or Google Translate API v2)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#44-google-cloud-translation-basic-or-google-translate-api-v2)
 
-  - [4.4.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#441-how-to-obtain-an-api-key)
+  - [4.4.1 How to obtain an API key](https://github.com/MarcinBas/dla-marty/blob/main/index.md#441-how-to-obtain-an-api-key)
 
-[5. References](https://github.com/MarcinBas/dla-marty/blob/main/Praca.md.md#5-references)
+[5. References](https://github.com/MarcinBas/dla-marty/blob/main/index.md#5-references)
 ## 1. INTRODUCTION
 Machine Translation (MT) technology allows you to automatically translate your text from one language to another. Both Trados Studio 2021™ and memoQ translator pro 9.8™ use plugins to connect to machine translation engine vendors. This manual provides information as to how to obtain API keys from MT vendors and enter them into the plugins. 
 *Disclaimer*
