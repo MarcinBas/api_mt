@@ -337,29 +337,29 @@ Refer to Point 4.4 for details.
 
 - Click **My memoq** tab in the upper, left corner of the dashboard.
 
-<img src="https://picc.io/dSDEXcO.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic1" style="height: 400px; width: 800px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic1](./images/memoq/memoq_amazon/2021-10-11_22_18_20-1.png)
 
 - Click **Options**. A new pane appears. Click **Options** in the **memoQ options** menu. Wait for the **Default resources** pane to open.
  
- <img src="https://picc.io/-uk0_4T.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic2" style="height: 400px; width: 800px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic2](./images/memoq/memoq_amazon/2021-10-11_22_20_30-2.png)
  
   - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
  
   - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
   
-<img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic3" style="height: 400px; width: 800px;"/>
- 
+![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic3](./images/memoq/memoq_amazon/2021-10-11_22_21_38-3.png)
+
   - If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
 
-<img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic_pic4" style="height: 400px; width: 800px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic4](./images/memoq/memoq_amazon/2021-10-11_22_23_17-4.png)
 
   - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Google Cloud Translation Basic plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
  
- <img src="https://picc.io/UQtS0Xo.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basics_pic5" style="height: 400px; width: 400px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic5](./images/memoq/memoq_google/2021-10-11_22_30_52-7.png)
  
  - In the **Google MT Plugin settings** enter your Google API key in the **Key for API v2.0** field. Do not change the text in the **Referer**  box . Click  **OK**.  Check the  **Enable plugin**  check box in the list of machine translation plugins. Click  **OK**  again to close the  **Options**  dialog.
  
- <img src="https://picc.io/H1FDEe_.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basics_pic6" style="height: 400px; width: 400px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic6](./images/memoq/memoq_google/2021-10-11_22_31_47-8.png)
  
 You may start using this service now.
 
@@ -367,15 +367,16 @@ You may start using this service now.
 ### 4.1 Amazon Translate (AWS) API Key
 #### 4.1.1 How to obtain an API key
 ##### 4.1.1.2 Create an **[AWS account](https://aws.amazon.com/)**
-<img src="https://picc.io/aNeFG-F.png" alt="How to obtain an API key for Amazon Translate AWS_pic1" style="height: 400px; width: 800px;"/>
+![How to obtain an API key for Amazon Translate AWSpic1](./images/trados/trados_AWS/2021-10-11_21_18_57-1.png)
 
  -  You need your debit/credit card to accomplish this step. One USD/EUR is then temporarily charged to your bank account. Provide your personal details. In the next step select the payment plan:
  
 <img src="https://picc.io/L0p6kRs.png" alt="How to obtain an API key for Amazon Translate AWS_pic2" style="height: 400px; width: 800px;"/>
+![How to obtain an API key for Amazon Translate AWSpic2](./images/trados/trados_AWS/2021-10-11_21_26_40-2.png)
 
  - Next configure your account locally. Download and install the **[AWS CLI](https://aws.amazon.com/cli/)** (Command Line Interface). Additional information on how to accomplish this task may be found in the **[AWS Documentation](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.html)**.
 
-<img src="https://picc.io/6COVsU2.png" alt="How to obtain an API key for Amazon Translate AWS_pic3" style="height: 400px; width: 800px;"/>
+![How to obtain an API key for Amazon Translate AWSpic3](./images/trados/trados_AWS/2021-10-11_21_36_42-3.png)
 
  - Look for necessary credentials in your AWS Management Console.
  
@@ -393,7 +394,7 @@ You may start using this service now.
 
   - Type in `aws configure` again. This is an example of what you should see then:
 
-<img src="https://picc.io/G2mQ82h.png" alt="How to obtain an API key for Amazon Translate AWS_pic4" style="height: 400px; width: 800px;"/>
+![How to obtain an API key for Amazon Translate AWSpic4](./images/trados/trados_AWS/2021-10-11_21_30_36-4.png)
 
 You have successfully set up your AWS credentials, incl. your API key.
 
