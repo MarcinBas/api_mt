@@ -135,7 +135,7 @@ Refer to Point 4.1 for details.
     - Enter the **AWS region name**, **Access key** and **Secret access key** credentials in the appropriate fields. Check the **Save access keys for future sessions** option.
     
      - Confirm by clicking **OK**.
-<!-- <img src="https://picc.io/be6e_v7.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic2" style="height: 200px; width: 800px;"/> -->	
+
 ![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic3](./images/trados/trados_AWS/2021-10-11 21_35_35-7.png)
 
 The **Amazon Translate Trados Plugin** plugin is now visible in the **Translation Memory and Automated Translation** settings window. You may start using this service now.
