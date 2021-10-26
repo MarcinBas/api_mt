@@ -430,67 +430,67 @@ To use this MT vendor you need to have your regular Google Account. Set it up an
 
  - Go to **Billing** > **Add a billing account**. Accomplish all the required steps of the procedure.
  
-<img src="https://picc.io/nAbnsoJ.png" alt="How to obtain an API key_Google_pic1" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic1](./images/trados/trados_Google/2021-10-11_21_42_47-1.png)
 
  - You should find yourself in the **Dashboard** view. As there are frequent changes to the **Google Cloud Platform** the page you find yourself may be different.
  
-<img src="https://picc.io/xp8Kb1_.png" alt="How to obtain an API key_Google_pic2" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic2](./images/trados/trados_Google/2021-10-11_21_44_52-2.png)
 
  - Type in `new project` in the search window. Click **Create a Project IAM & Admin**.
  
-<img src="https://picc.io/Cndr4HD.png" alt="How to obtain an API key_Google_pic3" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic3](./images/trados/trados_Google/2021-10-11_21_47_00-3.png)
 
  - Assign a name to your project in the **Project name** field (for example **CATpluginproject**). Write it down for future use. Click **Create**.
 
-<img src="https://picc.io/swa2dmT.png" alt="How to obtain an API key_Google_pic4" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic4](./images/trados/trados_Google/2021-10-11_21_48_01-4.png)
 
  - Type in your project name in the search window and press **Enter**. Click the project name in the results window.
  
  - In the upper, left corner of the page the drop-down menu has changed its name to the name of your project. Open the menu, and click the name of this project (for example **CATpluginproject**).
  
-<img src="https://picc.io/B0kZhe0.png" alt="How to obtain an API key_Google_pic5" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic5](./images/trados/trados_Google/2021-10-11_21_49_15-5.png)
 
  - The name of your project is now visible in the **Search** window in the middle of the upper part of the page. Click **Menu** (three horizontal lines one under another in the left corner) > **APIs & services**.
  
-<img src="https://picc.io/e8jrMsQ.png" alt="How to obtain an API key_Google_pic6" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic6](./images/trados/trados_Google/2021-10-11_21_51_54-6.png)
 
  - Click **ENABLE APIS AND SERVICES**.
  
-<img src="https://picc.io/-j5JqLL.png" alt="How to obtain an API key_Google_pic7" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic7](./images/trados/trados_Google/2021-10-11_21_57_20-7.png)
 
  - In the left margin click **Machine Learning**.
  
-<img src="https://picc.io/QvtYrHa.png" alt="How to obtain an API key_Google_pic8" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic8](./images/trados/trados_Google/2021-10-11_21_58_36-8.png)
 
  - Click **Cloud Translation API** > **Enable**.
  
-<img src="https://picc.io/YQwLPtc.png" alt="How to obtain an API key_Google_pic9" style="height: 400px; width: 800px;"/>
-<img src="https://picc.io/COqLrrS.png" alt="How to obtain an API key_Google_pic10" style="height: 400px; width: 700px;"/>
+![How to obtain an API key_Google_pic9](./images/trados/trados_Google/2021-10-11_22_00_29-9.png)
+![How to obtain an API key_Google_pic10](./images/trados/trados_Google/2021-10-11_22_01_51-10.png)
 
  - To use this API, you need credentials. Click **Create credentials** to get started.
  
-<img src="https://picc.io/mhRUJ0D.png" alt="How to obtain an API key_Google_pic11" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic11](./images/trados/trados_Google/2021-10-11_22_02_39-11.png)
 
  - From the **Select and API** drop-down menu select **Cloud Translation API**.
  
-<img src="https://picc.io/9cVXyZ2.png" alt="How to obtain an API key_Google_pic12" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic12](./images/trados/trados_Google/2021-10-11_22_04_11-12.png)
 
  - Click **Cancel**.
  
-<img src="https://picc.io/6cT1KVb.png" alt="How to obtain an API key_Google_pic13" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic13](./images/trados/trados_Google/2021-10-11_22_05_31-13.png)
 
  - In the upper part of the dashboard click **CREATE CREDENTIALS** > **API key**.
  
-<img src="https://picc.io/BuDPZbz.png" alt="How to obtain an API key_Google_pic14" style="height: 400px; width: 800px;"/>
-<img src="https://picc.io/UES_0NL.png" alt="How to obtain an API key_Google_pic15" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic14](./images/trados/trados_Google/2021-10-11_22_06_55-14.png)
+![How to obtain an API key_Google_pic15](./images/trados/trados_Google/2021-10-11_22_08_15-15.png)
 
  - Wait fo the API key to be created. Remember to copy it and store in a safe location. Clik **RESTRICT KEY** to prevent unauthorized use in production.
  
-<img src="https://picc.io/g3kCM-_.png" alt="How to obtain an API key_Google_pic16" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic16](./images/trados/trados_Google/2021-10-11_22_09_21-16.png)
 
  - Allow the **Restrict key** option. In the drop-down menu select **Cloud Translation API**. Click **Save**.
   
-<img src="https://picc.io/bvZhD9e.png" alt="How to obtain an API key_Google_pic17" style="height: 400px; width: 800px;"/>
+![How to obtain an API key_Google_pic17](./images/trados/trados_Google/2021-10-11_22_11_03-17.png)
 
 You now have your API key set up.
 
