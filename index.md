@@ -517,7 +517,9 @@ You now have your API key set up.
 - [https://www.youtube.com/watch?v=-KHq094SeWU](https://www.youtube.com/watch?v=-KHq094SeWU), access on 26/09/2021
 - [https://www.deepl.com/pl/pro-tool_integration.html](https://www.deepl.com/pl/pro-tool_integration.html), access on 27/09/2021
 - [https://developers.google.com/tech-writing/one/short-sentences](https://developers.google.com/tech-writing/one/short-sentences), access on 26/09/2021
+
 - [https://modernmt-website.s3.amazonaws.com/downloads/ModernMT+Plugin+Guide+for+SDL+Trados+Studio.pdf](https://modernmt-website.s3.amazonaws.com/downloads/ModernMT+Plugin+Guide+for+SDL+Trados+Studio.pdf), access on 28/09/2021
+
 - [https://docs.memoq.com/ggl-tst/Places/mt-settings.html](https://docs.memoq.com/ggl-tst/Places/mt-settings.html), access on 29/09/2021 
 
 
