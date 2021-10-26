@@ -136,7 +136,7 @@ Refer to Point 4.1 for details.
     
      - Confirm by clicking **OK**.
 		
-![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic3](./images/trados/trados AWS/2021-10-11 21_35_35-7.png)
+![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic3](./images/trados/trados_AWS/2021-10-11 21_35_35-7.png)
 
 The **Amazon Translate Trados Plugin** plugin is now visible in the **Translation Memory and Automated Translation** settings window. You may start using this service now.
 
