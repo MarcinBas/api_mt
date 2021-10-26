@@ -288,7 +288,7 @@ Refer to Point 4.2 for details.
  
  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **DeepL MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
 
-![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic5](./images/memoq/memoq_amazon/2021-10-11_22_24_38-5.png)
+![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic5](./images/memoq/memoq_deepl/2021-10-26_21_40_08.png)
 
  - In the **DeepL MT plugin settings** enter your DeepL API key in the **Auth key** field.  Click  **OK**.  Check the  **Enable plugin**  check box in the list of machine translation plugins. Click  **OK**  again to close the  **Options**  dialog.
 
@@ -303,29 +303,29 @@ Refer to Point 4.3 for details.
 #### 3.3.2 How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT
 - Click **My memoq** tab in the upper, left corner of the dashboard.
 
-<img src="https://picc.io/dSDEXcO.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic1" style="height: 400px; width: 800px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic1](./images/memoq/memoq_amazon/2021-10-11_22_18_20-1.png)
 
 - Click **Options**. A new pane appears. Click **Options** in the **memoQ options** menu. Wait for the **Default resources** pane to open.
 
-<img src="https://picc.io/-uk0_4T.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic2" style="height: 400px; width: 800px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic2](./images/memoq/memoq_amazon/2021-10-11_22_20_30-2.png)
 
  - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right. 
  
  - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
 
-<img src="https://picc.io/nCgETqe.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic3" style="height: 400px; width: 800px;"/>
- 
+![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic3](./images/memoq/memoq_amazon/2021-10-11_22_21_38-3.png)
+
  - If you have not set up an MT profile yet, open the **Language** drop-down menu, and select a language. In the **Name/description** field enter a name. Click **Create new** at the bottom of the pane. In the **Create new MT settings** window enter the name and description. Click **OK**. Check the new profile visible in the list. Click **OK** to confirm that you read the message > **Edit**.
 	
-<img src="https://picc.io/fvjgbdH.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic4" style="height: 400px; width: 800px;"/>
+![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic4](./images/memoq/memoq_amazon/2021-10-11_22_23_17-4.png)
 
  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Modern MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
 
- <img src="https://picc.io/8sHD0RD.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic5" style="height: 400px; width: 400px;"/>
+ ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic5](./images/memoq/memoq_modernmt/2021-10-11_22_33_45-7.png)
  
  - In the **Modern MT settings** enter your Modern MT API key in the field. Click  **Login**.  Select one of the translation memories or create a new one. Click  **OK**  again to close the  **Options**  dialog.
  
- <img src="https://picc.io/e9_rZoX.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT_pic6" style="height: 400px; width: 400px;"/>
+ ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-10-11_22_34_46-8.png)
  
 You may start using this service now.
 
