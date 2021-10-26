@@ -292,7 +292,7 @@ Refer to Point 4.2 for details.
 
  - In the **DeepL MT plugin settings** enter your DeepL API key in the **Auth key** field.  Click  **OK**.  Check the  **Enable plugin**  check box in the list of machine translation plugins. Click  **OK**  again to close the  **Options**  dialog.
 
-![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic6](./images/memoq/memoq_amazon/2021-10-11_22_25_24-6.png) 
+![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic6](./images/memoq/memoq_deepl/2021-10-11_22_29_36-7.png) 
 
 You may start using this service now.
 
