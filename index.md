@@ -190,13 +190,13 @@ Refer to Point 4.4 for details.
 
 - Go to **Add-ins > RWS AppStore**. Search for **MT Enhanced Plugin for Trados Studio** and download it.
 
-<img src="https://picc.io/hYkNiee.png" alt="How to set up the Trados Studio 2021™ plugin for Google Translation Basic_pic1" style="height: 400px; width: 800px;"/>
+![How to set up the Trados Studio 2021™ plugin for Google Translation Basicpic1](./images/trados/trados_Google/2021-10-11_22_12_09-18.png)
 
 - Restart Trados Studio 2021™.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **MT Enhanced Trados Plugin**.
 
-<img src="https://picc.io/WBBCr7q.png" alt="How to set up the Trados Studio 2021™ plugin for Google Translation Basic_pic2" style="height: 400px; width: 800px;"/>
+![How to set up the Trados Studio 2021™ plugin for Google Translation Basicpic2](./images/trados/trados_Google/2021-10-11_22_13_14-19.png)
 
 - Open the uppermost drop-down menu to choose which MT provider you want to use. Select **Google Translator**.
 
@@ -205,8 +205,8 @@ Refer to Point 4.4 for details.
  - Enter the API key in the field below. Check the **Save Google key**.
  
  - Click **OK**.
- 
-<img src="https://picc.io/pQm43Gq.png" alt="How to set up the Trados Studio 2021™ plugin for Google Translation Basic_pic3" style="height: 400px; width: 800px;"/>
+
+![How to set up the Trados Studio 2021™ plugin for Google Translation Basicpic3](./images/trados/trados_Google/2021-10-11_22_14_05-20.png)
 
 The **MT Enhanced Plugin for Trados Studio** plugin is now visible in the **Translation Memory and Automated Translation** settings window. It is displayed as **MT Enhanced using Google Translate Basics** in the opened window. You may start using this service now.
 
@@ -214,7 +214,7 @@ The **MT Enhanced Plugin for Trados Studio** plugin is now visible in the **Tran
 
 This plugin is not required for the **Google Cloud Translation Basic (or Google Translate API v2)** service to work with Trados Studio 2021™, but it enhances the usability of this MT. The plugin has been developed to provide a simple and fast way to validate the credentials being used to access the Google Translate API.
 
-<img src="https://picc.io/8n9F_Gf.png" alt=" How to set up the Google API Validator plugin for Trados Studio 2021_pic1" style="height: 400px; width: 800px;"/>
+![How to set up the Trados Studio 2021™ plugin for Google Translation Basicpic4](./images/trados/trados_Google/2021-10-11_22_15_55-23.png)
 
  - Open your desktop version of Trados Studio 2021™.
  - Go to **Add-ins > RWS AppStore**. Search for **Google API Validator** and download it. By default, it is saved in the following destination: C:\Users\User1\AppData\Roaming\SDL Community\AppStore Integration\Downloads\GoogleApiValidator.Setup.zip.
@@ -236,7 +236,7 @@ Refer to Point 4.1 for details.
 
  - Click **My memoq** tab in the upper, left corner of the dashboard.
  
- <img src="https://picc.io/dSDEXcO.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic1" style="height: 400px; width: 800px;"/>
+ <img src="https://picc.io/dSDEXcO.png" alt="How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)_pic1" style="height: 400px; width: 800px;"/![How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)pic1](./images/trados/memoq_amazon/2021-10-11_22_18_20-1.png)
  
  - Click **Options**. A new pane appears. Click **Options** in the **memoQ options** menu. Wait for the **Default resources** pane to open.
  
