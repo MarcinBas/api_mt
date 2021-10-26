@@ -123,10 +123,10 @@ Refer to Point 4.1 for details.
  - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **Amazon Translate Trados Plugin**.
 
 <!-- <img src="https://picc.io/_iBPzvh.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic1" style="height: 400px; width: 800px;"/> -->
-![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic1](./images/trados/trados_AWS/trados_MT.png)
+![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic1](./images/trados/trados_AWS/2021-10-11_21_33_42-5.png)
 
 <!-- <img src="https://picc.io/be6e_v7.png" alt="How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)_pic2" style="height: 200px; width: 800px;"/> -->
-![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic2](./images/trados/trados_AWS/trados_AWS.png)
+![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic2](./images/trados/trados_AWS/2021-10-11_21_34_52-6.png)
 
 - Enter necessary credentials in the **Authentication** window.
 
@@ -152,7 +152,7 @@ Refer to Point 4.2 for details.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **DeepL MT Translation Provider**.
 
-<img src="https://picc.io/xACI2Sb.png" alt="How to set up the Trados Studio 2021™ plugin for DeepL_pic1" style="height: 400px; width: 800px;"/>
+![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic4](./images/trados/trados_Deepl/2021-10-11_21_38_44-1.png)
 
  - Enter the API key. Click **OK**.
  
