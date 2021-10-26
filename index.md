@@ -152,7 +152,7 @@ Refer to Point 4.2 for details.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **DeepL MT Translation Provider**.
 
-![How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)pic4](./images/trados/trados_Deepl/2021-10-11_21_38_44-1.png)
+![How to set up the Trados Studio 2021™ plugin for Deeplpic1](./images/trados/trados_Deepl/2021-10-11_21_38_44-1.png)
 
  - Enter the API key. Click **OK**.
  
@@ -173,7 +173,7 @@ Refer to Point 4.3 for details.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **Modern MT Adaptive Neural Machine Translation**.
 
-<img src="https://picc.io/iyqDxEp.png" alt="How to set up the Trados Studio 2021™ plugin for ModernMT_pic1" style="height: 400px; width: 800px;"/>
+![How to set up the Trados Studio 2021™ plugin for ModernMTpic1](./images/trados/trados_modernMT/2021-10-11_22_16_43-1.png)
 
  - Enter the API key. Click **OK**.
  
