@@ -105,11 +105,16 @@ This manual shows how to obtain APIs to the following MTs:
 ### 1.2 Privacy
 More information about the way in which your data is processed by the MT vendors listed in point 1.1 of this manual is available from:
 
- - for DeepL: [https://www.deepl.com/pro-data-security/](https://www.deepl.com/pro-data-security/)
+ - for DeepL:
+ [https://www.deepl.com/pro-data-security/](https://www.deepl.com/pro-data-security/)
  
- - for Google Cloud Translation Basic (or Google Translate API v2): [https://cloud.google.com/translate/data-usage](https://cloud.google.com/translate/data-usage)
- - Amazon Translate (AWS): [https://docs.aws.amazon.com/translate/latest/dg/data-protection.html](https://docs.aws.amazon.com/translate/latest/dg/data-protection.html)
- - Modern MT: [https://www.modernmt.com/privacy/](https://www.modernmt.com/privacy/)
+ - for Google Cloud Translation Basic (or Google Translate API v2):
+ [https://cloud.google.com/translate/data-usage](https://cloud.google.com/translate/data-usage)
+ 
+ - Amazon Translate (AWS):
+ [https://docs.aws.amazon.com/translate/latest/dg/data-protection.html](https://docs.aws.amazon.com/translate/latest/dg/data-protection.html)
+ - Modern MT:
+ [https://www.modernmt.com/privacy/](https://www.modernmt.com/privacy/)
 
 ## 2. SPECIFICS - Trados Studio 2021™
 ### 2.1 Amazon Translate (AWS)
