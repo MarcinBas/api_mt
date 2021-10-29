@@ -114,7 +114,7 @@ More information about the way in which your data is processed by the MT vendors
  - Modern MT:
  [https://www.modernmt.com/privacy/](https://www.modernmt.com/privacy/)
 
-## 2. SPECIFICS - Trados Studio 2021™
+## 2. How to obtain API keys from MT providers - Trados Studio 2021™
 ### 2.1 Amazon Translate (AWS)
 #### 2.1.1 How to obtain an API key
 Refer to Point 4.1 for details.
@@ -231,7 +231,7 @@ In your system the \Users\User1 part of the path shown here will most likely be 
  
  More information on this plugin is available **[here](https://community.sdl.com/product-groups/translationproductivity/w/customer-experience/5493/google-api-validator).**
 
-## 3. SPECIFICS - Memoq Translator Pro 9.8™
+## 3. How to obtain API keys from MT providers - Memoq Translator Pro 9.8™
 ### 3.1 Amazon Translate (AWS)
 #### 3.1.1 How to obtain an API key
 Refer to Point 4.1 for details.
@@ -367,7 +367,7 @@ Refer to Point 4.4 for details.
  
 You may start using this service now.
 
-## 4. SPECIFICS - Trados Studio 2021™
+## 4. How to obtain API keys from MT providers - Trados Studio 2021™
 ### 4.1 Amazon Translate (AWS) API Key
 #### 4.1.1 How to obtain an API key
 ##### 4.1.1.2 Create an **[AWS account](https://aws.amazon.com/)**
