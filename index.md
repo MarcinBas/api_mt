@@ -238,7 +238,7 @@ Refer to Point 4.1 for details.
 
 #### 3.1.2 How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)
 
- - Click **My memoq** tab in the upper, left corner of the dashboard.
+ - Click **memoq** tab in the upper, left corner of the dashboard.
  
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)pic1](./images/memoq/memoq_amazon/2021-10-11_22_18_20-1.png)
 
@@ -272,7 +272,7 @@ You may start using this service now.
 Refer to Point 4.2 for details.
 
 #### 3.2.2 How to set up the Memoq Translator Pro 9.8™ plugin for DeepL
-- Click **My memoq** tab in the upper, left corner of the dashboard.
+- Click **memoq** tab in the upper, left corner of the dashboard.
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic1](./images/memoq/memoq_amazon/2021-10-11_22_18_20-1.png)
 
@@ -305,7 +305,7 @@ You may start using this service now.
 Refer to Point 4.3 for details.
 
 #### 3.3.2 How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT
-- Click **My memoq** tab in the upper, left corner of the dashboard.
+- Click **memoq** tab in the upper, left corner of the dashboard.
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic1](./images/memoq/memoq_amazon/2021-10-11_22_18_20-1.png)
 
@@ -339,7 +339,7 @@ Refer to Point 4.4 for details.
 
 #### 3.4.2 How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic (or Google Translate API v2)
 
-- Click **My memoq** tab in the upper, left corner of the dashboard.
+- Click **memoq** tab in the upper, left corner of the dashboard.
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic1](./images/memoq/memoq_amazon/2021-10-11_22_18_20-1.png)
 
