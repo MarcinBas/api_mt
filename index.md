@@ -11,7 +11,7 @@
 * [1.2 Privacy](https://github.com/MarcinBas/dla-marty/blob/main/index.md#12-privacy)
 
 
-[2. How to obtain API keys from MT providers - Trados Studio 2021™](https://github.com/MarcinBas/dla-marty/blob/main/index.md#2-How-to-obtain-API-keys-from-MT-providers- Trados-Studio-2021)
+[2. How to obtain API keys from MT providers - Trados Studio 2021™](#2-How-to-obtain-API-keys-from-MT-providers-Trados-Studio-2021)
 
 
 * [2.1 Amazon Translate (AWS)](https://github.com/MarcinBas/dla-marty/blob/main/index.md#21-amazon-translate-aws)
