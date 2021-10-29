@@ -376,20 +376,19 @@ You may start using this service now.
 ![How to obtain an API key for Amazon Translate AWSpic1](./images/trados/trados_AWS/2021-10-11_21_18_57-1.png)
 
  -  You need your debit/credit card to accomplish this step. One USD/EUR is then temporarily charged to your bank account. Provide your personal details. In the next step select the payment plan:
- 
 ![How to obtain an API key for Amazon Translate AWSpic2](./images/trados/trados_AWS/2021-10-11_21_26_40-2.png)
 
  - Next configure your account locally. Download and install the **[AWS CLI](https://aws.amazon.com/cli/)** (Command Line Interface). Additional information on how to accomplish this task may be found in the **[AWS Documentation](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.html)**.
 
 ![How to obtain an API key for Amazon Translate AWSpic3](./images/trados/trados_AWS/2021-10-11_21_36_42-3.png)
 
- - Look for necessary credentials in your AWS Management Console.
+ - Look for necessary credentials in your **AWS Management Console**.
  
  - Click the name of your account in the upper, right corner of the page.
  
- - Select My Security Credentials.
+ - Select **My Security Credentials**.
  
- - Click Access keys (access key ID and secret access key).
+ - Click **Access keys (access key ID and secret access key)**.
  
  - Generate the key. Download the key file. Remember to store it in a safe place.
  
