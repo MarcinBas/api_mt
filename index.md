@@ -107,10 +107,8 @@ More information about the way in which your data is processed by the MT vendors
 
  - for DeepL:
  [https://www.deepl.com/pro-data-security/](https://www.deepl.com/pro-data-security/)
- 
  - for Google Cloud Translation Basic (or Google Translate API v2):
  [https://cloud.google.com/translate/data-usage](https://cloud.google.com/translate/data-usage)
- 
  - Amazon Translate (AWS):
  [https://docs.aws.amazon.com/translate/latest/dg/data-protection.html](https://docs.aws.amazon.com/translate/latest/dg/data-protection.html)
  - Modern MT:
