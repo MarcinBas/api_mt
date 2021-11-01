@@ -4,7 +4,7 @@
 
 
 
-[1. INTRODUCTION](https://github.com/MarcinBas/dla-marty/blob/main/index.md#1-introduction)
+[1. INTRODUCTION](#1-introduction)
 
 * [1.1 MT vendors described](https://github.com/MarcinBas/dla-marty/blob/main/index.md#11-mt-vendors-described)
 
