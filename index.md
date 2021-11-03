@@ -103,7 +103,7 @@ More information about the way in which your data is processed by the MT vendors
 ## 2. How to set up Trados Studio 2021™ plugins
 ### 2.1 Amazon Translate (AWS)
 #### 2.1.1 How to obtain an API key
-Refer to Point 4.1 for details.
+Refer to [Point 4.1](#41-amazon-translate-aws) for details.
 
 #### 2.1.2 How to set up the Trados Studio 2021™ plugin for Amazon Translate (AWS)
  - Open your desktop version of Trados Studio 2021™.
@@ -132,7 +132,7 @@ The **Amazon Translate Trados Plugin** plugin is now visible in the **Translatio
 
 ### 2.2 DeepL
 #### 2.2.1 How to obtain an API key
-Refer to Point 4.2 for details.
+Refer to [Point 4.2](#42-deepl) for details.
 
 #### 2.2.2 How to set up the Trados Studio 2021™ plugin for DeepL
 
@@ -146,7 +146,7 @@ Refer to Point 4.2 for details.
 
  - Enter the API key. Click **OK**.
  
- - Add the following domains to your firewall/antivirus exceptions: www2.deepl.com and api.deepl.com.
+ - Add the following domains to your firewall/antivirus exceptions: www2.deepl.com and www.api.deepl.com.
  
  - Please check if the API key is added correctly. Read this article for more information: [https://gateway.sdl.com/apex/communityknowledge?articleName=000013232](https://gateway.sdl.com/apex/communityknowledge?articleName=000013232)
 
@@ -154,7 +154,7 @@ The **DeepL MT Translation Provider** plugin is now visible in the **Translation
 
 ### 2.3 ModernMT
 #### 2.3.1 How to obtain an API key
-Refer to Point 4.3 for details.
+Refer to [Point 4.3](#43-modernmt) for details.
 
 #### 2.3.2 How to set up the Trados Studio 2021™ plugin for ModernMT
 - Open your desktop version of Trados Studio 2021™.
@@ -172,7 +172,7 @@ Refer to Point 4.3 for details.
 The **Modern MT Adaptive Neural Machine Translation** plugin is now visible in the **Translation Memory and Automated Translation** settings window. You may start using this service now.
 ### 2.4 Google Cloud Translation Basic (or Google Translate API v2)
 #### 2.4.1 How to obtain an API key
-Refer to Point 4.4 for details.
+Refer to [Point 4.4](#44-google-cloud-translation-basic-or-google-translate-api-v2) for details.
 
 #### 2.4.2 How to set up the Trados Studio 2021™ plugin for Google Cloud Translation Basic (or Google Translate API v2)
 
@@ -220,7 +220,7 @@ In your system the \Users\User1 part of the path shown here will most likely be 
 ## 3. How to set up Memoq Translator Pro 9.8™ plugins
 ### 3.1 Amazon Translate (AWS)
 #### 3.1.1 How to obtain an API key
-Refer to Point 4.1 for details.
+Refer to [Point 4.1](#41-amazon-translate-aws) for details.
 
 #### 3.1.2 How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)
 
@@ -255,7 +255,7 @@ You may start using this service now.
 
 ### 3.2 DeepL
 #### 3.2.1 How to obtain an API key
-Refer to Point 4.2 for details.
+Refer to [Point 4.2](#42-deepl) for details.
 
 #### 3.2.2 How to set up the Memoq Translator Pro 9.8™ plugin for DeepL
 - Click **memoQ** tab in the upper, left corner of the dashboard.
@@ -288,7 +288,7 @@ You may start using this service now.
 
 ### 3.3 ModernMT
 #### 3.3.1 How to obtain an API key
-Refer to Point 4.3 for details.
+Refer to [Point 4.3](#43-modernmt) for details.
 
 #### 3.3.2 How to set up the Memoq Translator Pro 9.8™ plugin for ModernMT
 - Click **memoQ** tab in the upper, left corner of the dashboard.
@@ -321,7 +321,7 @@ You may start using this service now.
 
 ### 3.4 Google Cloud Translation Basic (or Google Translate API v2)
 #### 3.4.1 How to obtain an API key
-Refer to Point 4.4 for details.
+Refer to [Point 4.4](#44-google-cloud-translation-basic-or-google-translate-api-v2) for details.
 
 #### 3.4.2 How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic (or Google Translate API v2)
 
