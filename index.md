@@ -10,7 +10,7 @@
 
 * [1.2 Privacy](#12-privacy)
 
-[2. How to obtain API keys from MT providers - Trados Studio 2021™](#2-how-to-obtain-api-keys-from-mt-providers-trados-studio-2021)
+[2. How to obtain API keys from MT providers - Trados Studio 2021™](#2-how-to-obtain-api-keys-from-mt-providers-trados-studio-2021-tm)
 
 * [2.1 Amazon Translate (AWS)](#21-amazon-translate-aws)
 
