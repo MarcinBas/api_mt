@@ -76,7 +76,9 @@
 [5. References](#5-references)
 ## 1. INTRODUCTION
 Machine Translation (MT) technology allows you to automatically translate your text from one language to another. Both Trados Studio 2021™ and memoQ translator pro 9.8™ use plugins to connect to machine translation engine vendors. This manual provides information as to how to obtain API keys from MT vendors and enter them into the plugins. 
-*Disclaimer*
+
+*Disclaimer*  
+
 Information contained herein is valid as of October 1st, 2021. Due to frequent changes in user interfaces utilised by MT vendors this information may become obsolete after that date without advance notice. Revision 1.0.
 ### 1.1 MT vendors described
 This manual shows how to obtain APIs to the following MTs:
