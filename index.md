@@ -10,7 +10,7 @@
 
 * [1.2 Privacy](#12-privacy)
 
-[2. How to obtain API keys from MT providers - Trados Studio 2021™](#2-how-to-obtain-api-keys-from-mt-providers-trados-studio-2021)  
+[2. How to set up Trados Studio 2021™ plugins](#2-how_to_set_up_trados_studio_2021_plugins)  
 
 * [2.1 Amazon Translate (AWS)](#21-amazon-translate-aws)
 
@@ -37,7 +37,7 @@
 
   - [2.4.3 How to set up the Google API Validator plugin for Trados Studio 2021™ (optional)](#243-how-to-set-up-the-google-api-validator-plugin-for-trados-studio-2021-optional)
 
-[3. How to obtain API keys from MT providers - Memoq Translator Pro 9.8™](#3-How-to-obtain-API-keys-from-MT-providers-Memoq-Translator-Pro-98)  
+[3. How to set up Memoq Translator Pro 9.8™ plugins](#3-how-to-set-up-memoq-translator-pro-98-plugins)  
 
 * [3.1 Amazon Translate (AWS)](#31-amazon-translate-aws)
 
@@ -63,7 +63,7 @@
 
   - [3.4.2 How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basic (or Google Translate API v2)](#342-how-to-set-up-the-memoq-translator-pro-98-plugin-for-google-cloud-translation-basic-or-google-translate-api-v2)
 
-[4. How to obtain API keys from MT providers - Trados Studio 2021™](#4-How-to-obtain-API-keys-from-MT-providers-Trados-Studio-2021)  
+[4. How to obtain API keys for MT plugins](#4-how-to-obtain-api-keys-for-mt-plugins)  
 
 * [4.1 Amazon Translate (AWS) API Key](#41-amazon-translate-aws-api-key)
 
@@ -114,7 +114,7 @@ More information about the way in which your data is processed by the MT vendors
  - Modern MT:
  [https://www.modernmt.com/privacy/](https://www.modernmt.com/privacy/)
 
-## 2. How to obtain API keys from MT providers - Trados Studio 2021™
+## 2. How to set up Trados Studio 2021™ plugins
 ### 2.1 Amazon Translate (AWS)
 #### 2.1.1 How to obtain an API key
 Refer to Point 4.1 for details.
@@ -231,7 +231,7 @@ In your system the \Users\User1 part of the path shown here will most likely be 
  
  More information on this plugin is available **[here](https://community.sdl.com/product-groups/translationproductivity/w/customer-experience/5493/google-api-validator).**
 
-## 3. How to obtain API keys from MT providers - Memoq Translator Pro 9.8™
+## 3. How to set up Memoq Translator Pro 9.8™ plugins
 ### 3.1 Amazon Translate (AWS)
 #### 3.1.1 How to obtain an API key
 Refer to Point 4.1 for details.
@@ -367,7 +367,7 @@ Refer to Point 4.4 for details.
  
 You may start using this service now.
 
-## 4. How to obtain API keys from MT providers - Trados Studio 2021™
+## 4. How to obtain API keys for MT plugins
 ### 4.1 Amazon Translate (AWS) API Key
 #### 4.1.1 How to obtain an API key
 ##### 4.1.1.2 Create an **[AWS account](https://aws.amazon.com/)**
