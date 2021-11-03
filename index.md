@@ -317,7 +317,11 @@ Refer to [Point 4.3](#43-modernmt) for details.
 
  ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic5](./images/memoq/memoq_modernmt/2021-10-11_22_33_45-7.png)
  
- - In the **Modern MT settings** enter your Modern MT API key in the field. Click  **Login**.  Select one of the translation memories or create a new one. Click  **OK**  again to close the  **Options**  dialog.
+ - In the **Modern MT settings** enter your Modern MT API key in the field. Click  **Login**.  
+ 
+ ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-11-03-14-38-15.png)  
+ 
+  - You may select one or more translation memories to use with your project. Check the **Use** check box by each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
  
  ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-10-11_22_34_46-8.png)
  
