@@ -165,9 +165,9 @@ Refer to [Point 4.3](#43-modernmt) for details.
 
 - Go to **Project Settings**. In the **Translation Memory and Automated Translation** settings window select the provider by clicking **Use...** > **Modern MT Adaptive Neural Machine Translation**.
 
-![How to set up the Trados Studio 2021™ plugin for ModernMTpic1](./images/trados/trados_modernMT/2021-10-11_22_16_43-1.png)
-
  - Enter the API key. Click **OK**.
+
+![How to set up the Trados Studio 2021™ plugin for ModernMTpic1](./images/trados/trados_modernMT/2021-10-11_22_16_43-1.png)
  
  - You may select one or more translation memories to use with your project. Check the **Use** check box by each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
 
@@ -318,12 +318,12 @@ Refer to [Point 4.3](#43-modernmt) for details.
  ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic5](./images/memoq/memoq_modernmt/2021-10-11_22_33_45-7.png)
  
  - In the **Modern MT settings** enter your Modern MT API key in the field. Click  **Login**.  
- 
- ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-11-03-14-38-15.png)  
+
+ ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-10-11_22_34_46-8.png)  
  
   - You may select one or more translation memories to use with your project. Check the **Use** check box by each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
  
- ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-10-11_22_34_46-8.png)
+ ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-11-03-14-38-15.png)  
  
 You may start using this service now.
 
