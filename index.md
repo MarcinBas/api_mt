@@ -65,27 +65,13 @@
 
 [4. How to obtain API keys for MT plugins](#4-how-to-obtain-api-keys-for-mt-plugins)  
 
-* [4.1 Amazon Translate (AWS) API Key](#41-amazon-translate-aws-api-key)
-
-  - [4.1.1 How to obtain an API key](#411-how-to-obtain-an-api-key)
-
-    - [4.1.1.2 Create an AWS account.](#4112-create-an-aws-account)
+* [4.1 Amazon Translate (AWS)](#41-amazon-translate-aws)
 
 * [4.2 DeepL](#42-deepl)
 
-  -  [4.2.1 How to obtain an API key](#421-how-to-obtain-an-api-key)
-
-     - [4.2.1.1 Create a DeepL account here](#4211-create-a-deepl-account-here)
-
 * [4.3 ModernMT](#43-modernmt)
 
-   - [4.3.1 How to obtain an API key](#431-how-to-obtain-an-api-key)
-
-     - [4.3.1.1 ModernMT account](#4311-modernmt-account)
-
 * [4.4 Google Cloud Translation Basic (or Google Translate API v2)](#44-google-cloud-translation-basic-or-google-translate-api-v2)
-
-  - [4.4.1 How to obtain an API key](#441-how-to-obtain-an-api-key)
 
 [5. References](#5-references)
 ## 1. INTRODUCTION
@@ -368,9 +354,8 @@ Refer to Point 4.4 for details.
 You may start using this service now.
 
 ## 4. How to obtain API keys for MT plugins
-### 4.1 Amazon Translate (AWS) API Key
-#### 4.1.1 How to obtain an API key
-##### 4.1.1.2 Create an **[AWS account](https://aws.amazon.com/)**
+### 4.1 Amazon Translate (AWS)
+Create an **[AWS account](https://aws.amazon.com/)**
 ![How to obtain an API key for Amazon Translate AWSpic1](./images/trados/trados_AWS/2021-10-11_21_18_57-1.png)
 
  -  You need your debit/credit card to accomplish this step. One USD/EUR is then temporarily charged to your bank account. Provide your personal details. In the next step select the payment plan:
@@ -404,8 +389,7 @@ You may start using this service now.
 You have successfully set up your AWS credentials, incl. your API key.
 
 ### 4.2 DeepL
-#### 4.2.1 How to obtain an API key
-##### 4.2.1.1 Create a DeepL account [here](https://www.deepl.com/pro.html)
+Create a DeepL account [here](https://www.deepl.com/pro.html)
 
  -  Select DeepL Pro payment plan. You need your debit/credit card to register your account. Provide your personal details. Confirm each step.
  
@@ -414,9 +398,6 @@ You have successfully set up your AWS credentials, incl. your API key.
  - Go to **Account**. Your API key is at the bottom of the screen under ** Authentication Key for DeepL API**. Copy it and store it in a safe location.
 
 ### 4.3 ModernMT
-#### 4.3.1 How to obtain an API key
-##### 4.3.1.1 ModernMT account
-
 Create a ModernMT account [here](https://www.modernmt.com/pricing/).
 
 - Click **Plugins for translators** > **Get a license**.
@@ -428,9 +409,6 @@ Create a ModernMT account [here](https://www.modernmt.com/pricing/).
 - Copy your activation key from the **Here’s your activation key** field. Store it in a safe location.
 
 ### 4.4 Google Cloud Translation Basic (or Google Translate API v2)
-#### 4.4.1 How to obtain an API key
-##### 4.4.1.1 Google Account
-
 To use this MT vendor you need to have your regular Google Account. Set it up and log in to it. Then log in [here](https://console.developers.google.com/cloud-resource-manager).
 
  - Go to **Billing** > **Add a billing account**. Accomplish all the required steps of the procedure.
