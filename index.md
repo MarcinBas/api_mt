@@ -169,7 +169,7 @@ Refer to [Point 4.3](#43-modernmt) for details.
 
  - Enter the API key. Click **OK**.
  
- - You may select one or more translation memories to use with your project. Check the **Use** check box by the memory you wish to use. Check the **Update** check box of a translation memory you want to learn based on the corrections you make in the text. Currently you can only select this option for one translation memory.  
+ - You may select one or more translation memories to use with your project. Check the **Use** check box by each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
 
 ![How to set up the Trados Studio 2021™ plugin for ModernMTpic2](./images/trados/trados_modernMT/2021-11-03-14-38-15.png)
 
