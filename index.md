@@ -171,6 +171,8 @@ Refer to [Point 4.3](#43-modernmt) for details.
  
  - You may select the translation memories to use with your project. Click **OK**.
 
+![How to set up the Trados Studio 2021™ plugin for ModernMTpic2](./images/trados/trados_modernMT/2021-11-03-14-38-15.png)
+
 The **Modern MT Adaptive Neural Machine Translation** plugin is now visible in the **Translation Memory and Automated Translation** settings window. You may start using this service now.
 ### 2.4 Google Cloud Translation Basic (or Google Translate API v2)
 #### 2.4.1 How to obtain an API key
