@@ -10,7 +10,7 @@
 
 * [1.2 Privacy](#12-privacy)
 
-[2. How to set up Trados Studio 2021™ plugins](#2-how_to_set_up_trados_studio_2021_plugins)  
+[2. How to set up Trados Studio 2021™ plugins](#2-how-to-set-up-trados-studio-2021-plugins)  
 
 * [2.1 Amazon Translate (AWS)](#21-amazon-translate-aws)
 
