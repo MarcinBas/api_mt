@@ -89,7 +89,7 @@ This manual shows how to obtain APIs to the following MTs:
 | Modern MT   |  high quality vendor, easy set-up | limited number of language pairs  | paid service with adaptive functions in basic plan |
 
 ### 1.2 Privacy
-More information about the way in which your data is processed by the MT vendors listed in point 1.1 of this manual is available from:
+More information about the way in which your data is processed by the MT vendors listed in [Point 1.1](#11-mt-vendors-described) of this manual is available from:
 
  - for DeepL:
  [https://www.deepl.com/pro-data-security/](https://www.deepl.com/pro-data-security/)
