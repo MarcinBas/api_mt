@@ -6,7 +6,7 @@
 
 [1. INTRODUCTION](#1-introduction)
 
-* [1.1 MT vendors described](https://github.com/MarcinBas/dla-marty/blob/main/index.md#11-mt-vendors-described)
+* [1.1 MT vendors described](#11-mt-vendors-described)
 
 * [1.2 Privacy](https://github.com/MarcinBas/dla-marty/blob/main/index.md#12-privacy)
 
