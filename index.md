@@ -79,19 +79,19 @@ Machine Translation (MT) technology allows you to automatically translate your t
 
 *Disclaimer*  
 
-Information contained herein is valid as of October 1st, 2021. Due to frequent changes in user interfaces utilised by MT vendors this information may become obsolete after that date without advance notice. Revision 1.0.
+Information contained herein is valid as of October 1st, 2021. Due to frequent changes in user interfaces utilized by MT vendors this information may become obsolete after that date without advance notice. Revision 1.0.
 ### 1.1 MT vendors described
 This manual shows how to obtain APIs to the following MTs:
 
 | MT name | Advantages | Disadvantages | Cost |
 | ----------- | ----------- | ----------- | ----------- |
-| Google Cloud Translation Basic (or Google Translate API v2)  | best known vendor, numerous language pairs available  | quality differs per language pair, very complicated set-up  | paid service with free quota |
-| DeepL  |  very high quality, easy set-up  | limited number of language pairs  | paid service with free trial |
-| Amazon Translate (AWS)   |  numerous language pairs available | quality differs per language pair, complicated set-up  | paid service with free quota |
-| Modern MT   |  high quality vendor, easy set-up | limited number of language pairs  | paid service with adaptive functions in basic plan |
+| Google Cloud Translation Basic (or Google Translate API v2)  | best-known vendor, numerous language pairs available  | quality differs per language pair, very complicated set-up  | paid service with a free quota |
+| DeepL  |  very high quality, easy set-up  | limited number of language pairs  | paid service with a free trial |
+| Amazon Translate (AWS)   |  numerous language pairs available | quality differs per language pair, complicated set-up  | paid service with a free quota |
+| Modern MT   |  high-quality vendor, easy set-up | limited number of language pairs  | paid service with adaptive functions in a basic plan |
 
 ### 1.2 Privacy
-More information about the way in which your data is processed by the MT vendors listed in [Point 1.1](#11-mt-vendors-described) of this manual is available from:
+More information how your data is processed by the MT vendors listed in [Point 1.1](#11-mt-vendors-described) of this manual is available from:
 
  - for DeepL:
  [https://www.deepl.com/pro-data-security/](https://www.deepl.com/pro-data-security/)
@@ -122,9 +122,9 @@ Refer to [Point 4.1](#41-amazon-translate-aws) for details.
 
 - Enter necessary credentials in the **Authentication** window.
 
-    - Select **Access key  / Secret access key** in the **Choose AWS auth type** drop down menu.
+    - Select **Access key  / Secret access key** in the **Choose AWS auth type** drop-down menu.
 		
-    - Enter the **AWS region name**, **Access key** and **Secret access key** credentials in the appropriate fields. Check the **Save access keys for future sessions** option.
+    - Enter the **AWS region name**, **Access key**, and **Secret access key** credentials in the appropriate fields. Check the **Save access keys for future sessions** option.
     
      - Confirm by clicking **OK**.
 
@@ -171,7 +171,7 @@ Refer to [Point 4.3](#43-modernmt) for details.
 
 ![How to set up the Trados Studio 2021™ plugin for ModernMTpic1](./images/trados/trados_modernMT/2021-10-11_22_34_46-8.png)  
  
- - You may select one or more translation memories to use with your project. Check the **Use** check box by each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
+ - You may select one or more translation memories to use with your project. Check the **Use** check box for each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
 
 ![How to set up the Trados Studio 2021™ plugin for ModernMTpic2](./images/trados/trados_modernMT/2021-11-03-14-38-15.png)  
 
@@ -196,7 +196,7 @@ Refer to [Point 4.4](#44-google-cloud-translation-basic-or-google-translate-api-
 
 - Open the uppermost drop-down menu to choose which MT provider you want to use. Select **Google Translator**.  
 
-- Below the uppermost drop-down menu there is another one in which you can select which version of the Google Translate API you wish to use. Open it and select **V2-Basic Translation**.  
+- Below the uppermost drop-down menu, there is another one in which you can select which version of the Google Translate API you wish to use. Open it and select **V2-Basic Translation**.  
 
  - Enter the API key in the field below. Check the **Save Google key**.  
  
@@ -215,9 +215,9 @@ This plugin is not required for the **Google Cloud Translation Basic (or Google 
  - Open your desktop version of Trados Studio 2021™. 
  - Go to **Add-ins > RWS AppStore**. Search for **Google API Validator** and download it. By default, it is saved in the following destination: C:\Users\User1\AppData\Roaming\SDL Community\AppStore Integration\Downloads\GoogleApiValidator.Setup.zip.  
  
-In your system the \Users\User1 part of the path shown here will most likely be different. The path has been included here as an example, not a precise indication of the .zip file location.  
+In your system, the \Users\User1 part of the path shown here will most likely be different. The path has been included here as an example, not a precise indication of the .zip file location.  
 
- - Install the file by clicking it and follow the on-screen commands.  
+ - Install the file by clicking it and following the on-screen commands.  
  
  - After the plugin is installed, restart Trados Studio 2021™. The plugin is now ready for use.  
  
@@ -238,7 +238,7 @@ Refer to [Point 4.1](#41-amazon-translate-aws) for details.
  
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)pic2](./images/memoq/memoq_amazon/2021-10-11_22_20_30-2.png)
 
- -  At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
+ -  At the top of the pane, there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
  
  - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
 	
@@ -249,11 +249,11 @@ Refer to [Point 4.1](#41-amazon-translate-aws) for details.
 	
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)pic4](./images/memoq/memoq_amazon/2021-10-11_22_23_17-4.png)
 
- - In the **Edit machine translation settings** windows go to the **Services** tab and check the **AWS Amazon Translate** plugin. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
+ - In the **Edit machine translation settings** windows go to the **Services** tab and check the **AWS Amazon Translate** plugin. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double-click the name of the plugin.
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)pic5](./images/memoq/memoq_amazon/2021-10-11_22_24_38-5.png)
  
- - In the **Amazon Translate plugin settings** enter your Access key and Secret access key in the two text fields. Select your region from the Region drop-down menu. It must be the same region as the one specified in your Amazon credentials. More information about other options available in this window are available **[here](https://docs.memoq.com/current/en/Places/amazon-mt-plugin-settings.html)**.  Click **OK**, then click **OK** again.
+ - In the **Amazon Translate plugin settings** enter your Access key and Secret access key in the two text fields. Select your region from the Region drop-down menu. It must be the same region as the one specified in your Amazon credentials. More information about other options available in this window is available **[here](https://docs.memoq.com/current/en/Places/amazon-mt-plugin-settings.html)**.  Click **OK**, then click **OK** again.
  
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Amazon Translate (AWS) (for a local profile)pic6](./images/memoq/memoq_amazon/2021-10-11_22_25_24-6.png)
 
@@ -272,7 +272,7 @@ Refer to [Point 4.2](#42-deepl) for details.
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic2](./images/memoq/memoq_amazon/2021-10-11_22_20_30-2.png)
  
-- At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
+- At the top of the pane, there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
 
 - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
 
@@ -282,7 +282,7 @@ Refer to [Point 4.2](#42-deepl) for details.
 	
 ![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic4](./images/memoq/memoq_amazon/2021-10-11_22_23_17-4.png)
  
- - In the **Edit machine translation settings** windows go to the **Services** tab and check the **DeepL MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
+ - In the **Edit machine translation settings** windows go to the **Services** tab and check the **DeepL MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double-click the name of the plugin.
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for DeepLpic5](./images/memoq/memoq_deepl/2021-10-26_21_40_08.png)
 
@@ -305,7 +305,7 @@ Refer to [Point 4.3](#43-modernmt) for details.
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic2](./images/memoq/memoq_amazon/2021-10-11_22_20_30-2.png)
 
- - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right. 
+ - At the top of the pane, there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right. 
  
  - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
 
@@ -315,7 +315,7 @@ Refer to [Point 4.3](#43-modernmt) for details.
 	
 ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic4](./images/memoq/memoq_amazon/2021-10-11_22_23_17-4.png)
 
- - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Modern MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
+ - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Modern MT Plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double-click the name of the plugin.
 
  ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic5](./images/memoq/memoq_modernmt/2021-10-11_22_33_45-7.png)
  
@@ -323,7 +323,7 @@ Refer to [Point 4.3](#43-modernmt) for details.
 
  ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-10-11_22_34_46-8.png)  
  
-  - You may select one or more translation memories to use with your project. Check the **Use** check box by each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
+  - You may select one or more translation memories to use with your project. Check the **Use** check box for each translation memory you wish to use. If you check the **Update** check box of a translation memory, it will learn from the corrections you make in a given translation. You may select this check box for only one translation memory.  
  
  ![How to set up the Memoq Translator Pro 9.8™ plugin for ModernMTpic6](./images/memoq/memoq_modernmt/2021-11-03-14-38-15.png)  
  
@@ -343,7 +343,7 @@ Refer to [Point 4.4](#44-google-cloud-translation-basic-or-google-translate-api-
  
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic2](./images/memoq/memoq_amazon/2021-10-11_22_20_30-2.png)
  
-  - At the top of the pane there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
+  - At the top of the pane, there is a row of icons. Click the **MT Settings** icon, which is the first icon from the right.
  
   - If you have already set up an MT profile or profiles, select one of them from the list and click **OK** to confirm that you read the message > **Edit**.
   
@@ -353,11 +353,11 @@ Refer to [Point 4.4](#44-google-cloud-translation-basic-or-google-translate-api-
 
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic4](./images/memoq/memoq_amazon/2021-10-11_22_23_17-4.png)
 
-  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Google Cloud Translation Basic plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double click the name of the plugin.
+  - In the **Edit machine translation settings** windows go to the **Services** tab and check the **Google Cloud Translation Basic plugin**. Click **OK** to confirm that you read the message. To prevent this message from displaying again, check **Do not show this warning** option. Click the cogwheel icon or double-click the name of the plugin.
  
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic5](./images/memoq/memoq_google/2021-10-11_22_30_52-7.png)
  
- - In the **Google MT Plugin settings** enter your Google API key in the **Key for API v2.0** field. Do not change the text in the **Referer**  box . Click  **OK**.  Check the  **Enable plugin**  check box in the list of machine translation plugins. Click  **OK**  again to close the  **Options**  dialog.
+ - In the **Google MT Plugin settings** enter your Google API key in the **Key for API v2.0** field. Do not change the text in the **Referer**  box. Click  **OK**.  Check the  **Enable plugin**  check box in the list of machine translation plugins. Click  **OK**  again to close the  **Options**  dialog.
  
 ![How to set up the Memoq Translator Pro 9.8™ plugin for Google Cloud Translation Basicpic6](./images/memoq/memoq_google/2021-10-11_22_31_47-8.png)
  
@@ -374,7 +374,7 @@ Create an **[AWS account](https://aws.amazon.com/)**
 ![How to obtain an API key for Amazon Translate AWSpic2](./images/trados/trados_AWS/2021-10-11_21_26_40-2.png)  
 
 
- - Next configure your account locally. Download and install the **[AWS CLI](https://aws.amazon.com/cli/)** (Command Line Interface). Additional information on how to accomplish this task may be found in the **[AWS Documentation](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.html)**.
+ - Next, configure your account locally. Download and install the **[AWS CLI](https://aws.amazon.com/cli/)** (Command Line Interface). Additional information on how to accomplish this task may be found in the **[AWS Documentation](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-windows.html)**.
 
 ![How to obtain an API key for Amazon Translate AWSpic3](./images/trados/trados_AWS/2021-10-11_21_36_42-3.png)
 
@@ -403,7 +403,7 @@ Create a DeepL account [here](https://www.deepl.com/pro.html)
 
  -  Select DeepL Pro payment plan. You need your debit/credit card to register your account. Provide your personal details. Confirm each step.
  
- - Press **Retrieve your Authentication Key** in the last screen. 
+ - Press **Retrieve your Authentication Key** on the last screen. 
  
  - Go to **Account**. Your API key is at the bottom of the screen under ** Authentication Key for DeepL API**. Copy it and store it in a safe location.
 
@@ -439,7 +439,7 @@ To use this MT vendor you need to have your regular Google Account. Set it up an
 
  - Type in your project name in the search window and press **Enter**. Click the project name in the results window.
  
- - In the upper, left corner of the page the drop-down menu has changed its name to the name of your project. Open the menu, and click the name of this project (for example **CATpluginproject**).
+ - In the upper, left corner of the page, the drop-down menu has changed its name to the name of your project. Open the menu, and click the name of this project (for example **CATpluginproject**).
  
 ![How to obtain an API key_Google_pic5](./images/trados/trados_Google/2021-10-11_21_49_15-5.png)
 
@@ -464,7 +464,7 @@ To use this MT vendor you need to have your regular Google Account. Set it up an
  
 ![How to obtain an API key_Google_pic11](./images/trados/trados_Google/2021-10-11_22_02_39-11.png)
 
- - From the **Select and API** drop-down menu select **Cloud Translation API**.
+ - From the **Select an API** drop-down menu select **Cloud Translation API**.
  
 ![How to obtain an API key_Google_pic12](./images/trados/trados_Google/2021-10-11_22_04_11-12.png)
 
@@ -472,12 +472,12 @@ To use this MT vendor you need to have your regular Google Account. Set it up an
  
 ![How to obtain an API key_Google_pic13](./images/trados/trados_Google/2021-10-11_22_05_31-13.png)
 
- - In the upper part of the dashboard click **CREATE CREDENTIALS** > **API key**.
+ - In the upper part of the dashboard, click **CREATE CREDENTIALS** > **API key**.
  
 ![How to obtain an API key_Google_pic14](./images/trados/trados_Google/2021-10-11_22_06_55-14.png)
 ![How to obtain an API key_Google_pic15](./images/trados/trados_Google/2021-10-11_22_08_15-15.png)
 
- - Wait fo the API key to be created. Remember to copy it and store in a safe location. Clik **RESTRICT KEY** to prevent unauthorized use in production.
+ - Wait for the API key to be created. Remember to copy it and store it in a safe location. Click **RESTRICT KEY** to prevent unauthorized use in production.
  
 ![How to obtain an API key_Google_pic16](./images/trados/trados_Google/2021-10-11_22_09_21-16.png)
 
@@ -510,9 +510,7 @@ You now have your API key set up.
 - [https://www.youtube.com/watch?v=-KHq094SeWU](https://www.youtube.com/watch?v=-KHq094SeWU), accessed on 26/09/2021
 - [https://www.deepl.com/pl/pro-tool_integration.html](https://www.deepl.com/pl/pro-tool_integration.html), accessed on 27/09/2021
 - [https://developers.google.com/tech-writing/one/short-sentences](https://developers.google.com/tech-writing/one/short-sentences), accessed on 26/09/2021
-
 - [https://modernmt-website.s3.amazonaws.com/downloads/ModernMT+Plugin+Guide+for+SDL+Trados+Studio.pdf](https://modernmt-website.s3.amazonaws.com/downloads/ModernMT+Plugin+Guide+for+SDL+Trados+Studio.pdf), accessed on 28/09/2021
-
 - [https://docs.memoq.com/ggl-tst/Places/mt-settings.html](https://docs.memoq.com/ggl-tst/Places/mt-settings.html), accessed on 29/09/2021 
 
 
